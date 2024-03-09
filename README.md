@@ -1,4 +1,4 @@
-#Welcome to My IBM Final Project!!
+# Welcome to My IBM Final Project!!
 
 This project involves guided scenarios aimed at completing the IBM Data Analyst Certificate. 
 Assuming the role of a Data Analyst within a prominent international IT and business consulting firm renowned for its expertise in IT solutions, 
